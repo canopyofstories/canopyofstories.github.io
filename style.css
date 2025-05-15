@@ -1,0 +1,45 @@
+body  {background-color: blanchedalmond;
+    font-size:  18px;
+    color:darkgoldenrod;
+    line-height: 20px;
+    font-family: arial;
+    color:peachpuff;
+    background-color:rgb(24, 24, 24);
+    margin:20px;
+    padding: 40px;;
+}
+
+p{
+    font-size: 30px;
+}
+
+div.title{
+    font-size: 57px;
+    line-height: 50px;
+}
+
+div.font-brown{
+    color:rgb(160, 120, 51);
+}
+
+div.font-olive{
+    color:darkolivegreen;
+}
+
+div.font-peach{
+    color:rgb(251, 203, 210);
+}
+
+
+div.bg-brown{
+    background-color:lemonchiffon;
+}
+
+div.cover{
+    width: 800px;
+    height: 400px;
+    background-color:orange;
+    padding: 20px;
+}
+
+
